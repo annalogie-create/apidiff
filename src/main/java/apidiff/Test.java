@@ -1,23 +1,31 @@
 package apidiff;
 
 import java.io.File;
+import java.text.SimpleDateFormat;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.ZoneId;
+import java.time.ZoneOffset;
+import java.time.ZonedDateTime;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
+import java.util.TimeZone;
 
 import apidiff.enums.Classifier;
 import apidiff.util.UtilFile;
 
 public class Test {
 	
-	public static final String path = "home/Projects";
+	public static final String path = "";
 	
 	public Test() {
 		
 	}
 
 	public static void main(String[] args) throws Exception {
-		String nameProject = "gradle/gradle";
-		String url = "https://github.com/gradle/gradle";
+		String nameProject = "easymock/easymock";
+		String url = "https://github.com/easymock/easymock";
 		Test.getChangesAllHistoryCSV(nameProject, url);
 	}
 	
@@ -28,10 +36,15 @@ public class Test {
 		try {
 			result = diff.detectChangeAllHistory("master", Classifier.API);
 			List<String> listChanges = new ArrayList<String>();
-			listChanges.add("Category;isDeprecated;containsJavadoc");
+			listChanges.add("Category;isDeprecated;containsJavadoc;Commit");
 			for(Change changeMethod : result.getChangeMethod()){
-			    String change = changeMethod.getCategory().getDisplayName() + ";" + changeMethod.isDeprecated()  + ";" + changeMethod.containsJavadoc() ;
-			    listChanges.add(change);
+				if (changeMethod.isBreakingChange()){
+				long epoch = (long) changeMethod.getRevCommit().getCommitTime();
+				String date = convertEpochToDate(epoch);
+			    String change = changeMethod.getCategory().getDisplayName() + ";" + 
+				changeMethod.isDeprecated()  + ";" + changeMethod.containsJavadoc() + 
+				";" + date ;
+			    listChanges.add(change);}
 			}
 			UtilFile.writeFile("output.csv", listChanges);
 		}
@@ -68,4 +81,15 @@ public class Test {
 		    System.out.println("Hello");
 		}
 	}
+	public static String convertEpochToDate(Long epoch)
+	   {
+	   //convert seconds to milliseconds
+	   Date date = new Date(epoch*1000L); 
+	   // format of the date
+	   SimpleDateFormat jdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss z");
+	   jdf.setTimeZone(TimeZone.getTimeZone("GMT"));
+	   String java_date = jdf.format(date);
+	   return java_date;
+	   }
+
 }

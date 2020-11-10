@@ -1,0 +1,538 @@
+Category;isDeprecated;containsJavadoc
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Add Final Modifier in Method;false;true
+Lost Visibility in Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Inline Method;false;true
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Change in Return Type Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Rename Method;false;true
+Rename Method;false;false
+Remove Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;true
+Remove Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Rename Method;false;false
+Lost Visibility in Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Add Final Modifier in Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Add Final Modifier in Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Inline Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Change in Exception List;false;true
+Change in Exception List;false;true
+Move Method;false;false
+Move Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Lost Visibility in Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Change in Return Type Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;true
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Change in Exception List;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Change in Return Type Method;false;true
+Add Final Modifier in Method;false;true
+Add Final Modifier in Method;false;true
+Add Final Modifier in Method;false;true
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;true
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;false
+Add Final Modifier in Method;false;true
+Add Final Modifier in Method;false;true
+Lost Visibility in Method;false;true
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;true
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Rename Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Change in Return Type Method;false;true
+Rename Method;false;true
+Inline Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Lost Visibility in Method;false;false
+Change in Return Type Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Inline Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Change in Exception List;false;true
+Change in Exception List;false;true
+Change in Exception List;false;true
+Change in Exception List;false;true
+Rename Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Pull Up Method;false;false
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;false
+Change in Return Type Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Change in Exception List;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Move Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Remove Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Rename Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Change in Return Type Method;false;true
+Rename Method;false;true
+Rename Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Remove Method;false;false
+Change in Exception List;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Lost Visibility in Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Change in Return Type Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Lost Visibility in Method;false;false
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Inline Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Lost Visibility in Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Remove Method;false;true
+Move Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Remove Method;false;true
+Rename Method;false;true
+Rename Method;false;true
+Lost Visibility in Method;false;false
+Remove Method;false;true
